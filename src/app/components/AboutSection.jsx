@@ -31,7 +31,6 @@ const AboutSection = () => {
           </p>
         </div>
        </div>
-       <Image src="/images/projects/1.png" />
     </section>
  
   );
